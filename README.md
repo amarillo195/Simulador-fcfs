@@ -31,8 +31,7 @@ simulador-fcfs-so
 │
 ├── documentacion
 │   └── Proyecto_Final_SO.pdf
-│
-└── README.md
+└── 
 ```
 # Integrantes
 
