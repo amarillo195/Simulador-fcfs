@@ -37,7 +37,7 @@ simulador-fcfs-so
 # Integrantes
 
 * Diara Mosquera = Desarrollo de interfaz grafica 
-* NRafael Cabana = Implementación del algoritmo FCFS
+* Rafael Cabana = Implementación del algoritmo FCFS
 * Karla Ponzón = Documentación y análisis
 * Samuel Polo = Evidencias y pruebas 
 
